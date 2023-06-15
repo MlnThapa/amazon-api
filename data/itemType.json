@@ -1,0 +1,72 @@
+[
+    {
+        "category_id": 1,
+        "itemType_id":1,
+        "itemType":"Smart speakers"
+    },
+    {
+        "category_id": 1,
+        "itemType_id":2,
+        "itemType":"Smart devices"
+    },
+    {
+        "category_id": 2,
+        "itemType_id":3,
+        "itemType":"Laptop"
+    },
+    {
+        "category_id": 2,
+        "itemType_id":4,
+        "itemType":"Watches"
+    },
+    {
+        "category_id": 2,
+        "itemType_id":5,
+        "itemType":"Headphone"
+    },
+    {
+        "category_id": 3,
+        "itemType_id":6,
+        "itemType":"Men"
+    },
+    {
+        "category_id": 3,
+        "itemType_id":7,
+        "itemType":"Women"
+    },
+    {
+        "category_id": 3,
+        "itemType_id":8,
+        "itemType":"Kids"
+    },
+    {
+        "category_id": 4,
+        "itemType_id":9,
+        "itemType":"Medicines"
+    },
+    {
+        "category_id": 4,
+        "itemType_id":10,
+        "itemType":"Healthcare devices"
+    },
+    {
+        "category_id": 4,
+        "itemType_id":11,
+        "itemType":"Ayurveda"
+    },
+    {
+        "category_id": 5,
+        "itemType_id":12,
+        "itemType":"Non fiction"
+    },
+    {
+        "category_id": 5,
+        "itemType_id":13,
+        "itemType":"Children"
+    },
+    {
+        "category_id": 5,
+        "itemType_id":14,
+        "itemType":"School"
+    }
+]

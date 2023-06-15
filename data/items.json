@@ -1,0 +1,166 @@
+[{
+    "itemType_id": 1,
+    "item-id":1,
+    "item_name":"alexa",
+    "image":"https://ibb.co/2jXx9Wj"
+},
+{
+    "itemType_id": 2,
+    "item-id":2,
+    "item_name":"amazon smart plug",
+    "image":"https://ibb.co/02dVwhJ"
+},
+{
+    "itemType_id": 2,
+    "item-id":3,
+    "item_name":"Remote",
+    "image":"https://ibb.co/hdRQrwV"
+},
+
+{
+    "itemType_id": 3,
+    "item-id":4,
+    "item_name":"Lenovo Laptop",
+    "image":"https://ibb.co/Xss0B5m"
+},
+{
+    "itemType_id": 3,
+    "item-id":5,
+    "item_name":"hp Laptop",
+    "image":"https://ibb.co/LCtt10G"
+},
+{
+    "itemType_id": 4,
+    "item-id":6,
+    "item_name":"fossil watch",
+    "image":"https://ibb.co/K2ZKv7T"
+},
+{
+    "itemType_id": 4,
+    "item-id":7,
+    "item_name":"Smart watch",
+    "image":"https://ibb.co/dMLT71w"
+},
+{
+    "itemType_id": 5,
+    "item-id":8,
+    "item_name":"Headphone",
+    "image":"https://ibb.co/z7dw62c"
+},
+{
+    "itemType_id": 6,
+    "item-id":9,
+    "item_name":"Vneck tshirt",
+    "image":"https://ibb.co/mFJrfcR"
+},
+{
+    "itemType_id": 6,
+    "item-id":10,
+    "item_name":"Shirt",
+    "image":"https://ibb.co/4g8Rr9x"
+},
+{
+    "itemType_id": 6,
+    "item-id":11,
+    "item_name":"Pant",
+    "image":"https://ibb.co/Srx9ChW"
+},
+{
+    "itemType_id": 7,
+    "item-id":12,
+    "item_name":"Women tshirt",
+    "image":"https://ibb.co/PtJHvSw"
+},
+{
+    "itemType_id": 7,
+    "item-id":13,
+    "item_name":"Women shirt",
+    "image":"https://ibb.co/Fw8rNvx"
+},
+{
+    "itemType_id": 7,
+    "item-id":14,
+    "item_name":"Women pants",
+    "image":"https://ibb.co/JxsqfSg"
+},
+{
+    "itemType_id": 8,
+    "item-id":15,
+    "item_name":"kids tshirt",
+    "image":"https://ibb.co/9pz24Yp"
+},
+{
+    "itemType_id": 8,
+    "item-id":16,
+    "item_name":"kids Shirt",
+    "image":"https://ibb.co/vqgxgkL"
+},
+{
+    "itemType_id": 8,
+    "item-id":17,
+    "item_name":"kids Pants",
+    "image":"https://ibb.co/vqgxgkL"
+},
+{
+    "itemType_id": 9,
+    "item-id":18,
+    "item_name":"Paracetamol",
+    "image":"https://ibb.co/ZXKV5fd"
+},
+{
+    "itemType_id": 9,
+    "item-id":19,
+    "item_name":"Digestive tablet",
+    "image":"https://ibb.co/KGxwDch"
+},
+{
+    "itemType_id": 10,
+    "item-id":20,
+    "item_name":"Oxymeter",
+    "image":"https://ibb.co/PwdC2b3"
+},
+{
+    "itemType_id": 10,
+    "item-id":21,
+    "item_name":"Thermometer",
+    "image":"https://ibb.co/8zHF5tZ"
+},
+{
+    "itemType_id": 10,
+    "item-id":21,
+    "item_name":"Thermometer",
+    "image":"https://ibb.co/8zHF5tZ"
+},
+{
+    "itemType_id": 11,
+    "item-id":22,
+    "item_name":"Chyawanprash",
+    "image":"https://ibb.co/87409Z2"
+},
+{
+    "itemType_id": 11,
+    "item-id":23,
+    "item_name":"Pancharistha",
+    "image":"https://ibb.co/6XYYP41"
+},
+{
+    "itemType_id": 12,
+    "item-id":24,
+    "item_name":"Dopamine",
+    "image":"https://ibb.co/tLFJ0y9"
+},
+{
+    "itemType_id": 13,
+    "item-id":25,
+    "item_name":"Harry Potter",
+    "image":"https://ibb.co/vckd1ny"
+},
+{
+    "itemType_id": 14,
+    "item-id":26,
+    "item_name":"Mathematics",
+    "image":"https://ibb.co/HGMJhqC"
+}
+
+
+]
