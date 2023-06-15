@@ -7,6 +7,7 @@ import cors from 'cors';
 import { getData,postData,updateOrder,deleteOrder } from './controller/dbController.js';
 
 const PORT = process.env.PORT || 4000
+const MONGO_URI = "mongodb+srv://admin1:bJtCWTgalLQTHPls@cluster0.m9jsjnl.mongodb.net/?retryWrites=true&w=majority"
 const app = express();
 dotenv.config();
 
@@ -15,7 +16,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
 app.use(cors());
 
-mongoose.connect(process.env.MONGO_URI)
+mongoose.connect(MONGO_URI)
 .then(()=>{
     app.listen(PORT,()=> console.log(`Connected to port ${PORT}`))
 })
